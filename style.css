@@ -71,7 +71,8 @@
     /* Carousel base class */
     .carousel {
       margin-bottom: 60px;
-      background-image: url(./images/Jersey_City.JPG);
+   /*   background-image: url(./images/Jersey_City.JPG); */
+      background-image:  url(./images/civic-tech.jpg);
       background-size: cover;
     }
 
