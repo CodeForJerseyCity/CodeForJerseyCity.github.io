@@ -74,6 +74,7 @@
    /*   background-image: url(./images/Jersey_City.JPG); */
       background-image:  url(./images/civic-tech.jpg);
       background-size: cover;
+      background-position: center;
     }
 
     .carousel .container {
