@@ -3,13 +3,11 @@ http://codeforjc.org
 
 Landing page for *Code for Jersey City*
 
-Note that branch `gh-pages` is what shows on production codeforhamptonroads.org. Master does nothing.
-
 #How to Code for this Repo
 Option A: Fork, Edit, then Pull Request when ready.
 Option B: If in the Code for Jersey City's Brigade and you have write access to repo: Develop/test in your own branch, preferablly a feature-named-branch, and once it's ready for production, merge into gh-pages, which auto deploys to GitHub pages for codeforjc.org
 
-Also, it's nice if you merge/commit to gh-pages, that you [let the team know on our Google Group](https://groups.google.com/a/codeforamerica.org/forum/#!forum/openjc). 
+Also, it's nice if you merge/commit to gh-pages, that you [let the team know on our Google Group](https://groups.google.com/a/codeforamerica.org/forum/#!forum/openjc).
 
 #License
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
