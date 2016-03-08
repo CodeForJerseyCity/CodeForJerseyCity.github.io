@@ -15,5 +15,5 @@ Also, it's nice if you merge/commit to gh-pages, that you [let the team know on 
 #Attribution and Thanks
 This repo and the site codeforjc.org uses Twitter Bootstrap and started from their [Carousel jumbotron](http://twitter.github.com/bootstrap/examples/carousel.html) template. They are awesome.
 
-#Issues, Questions, Wana Help?
+#Issues, Questions, Wanna Help?
 We take Pull Requests! See http://codeforjc.org for getting involved, and http://codeforamerica.org if outside Jersey City, New Jersey. Use github's issues if you see a problem or have a feature request. You can contact the maintainer Anna Lukasiak at adlukasiak@gmail.com.
